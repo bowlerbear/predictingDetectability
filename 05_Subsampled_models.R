@@ -1,11 +1,5 @@
 # README:
-# This script includes:
-# (1) multiple regression to explore the relationship between species traits and mean detection probability
-# (2) uses a leave-one-out approach with the model to test predictive ability
-# (3) estimates the error from using these predicted estimate over the original estimate
-# (4) same as (1) except for the effects of covariates on detection probability
-# (5) tests the effect of using subsampled data to estimate detection probability and 
-# compares it with the trait-based estimates
+# This script subsampled the original dataset to compare the effect on the detection probabilty estimates. 
 
 # Libraries --------------------------------------------------------------------
 
