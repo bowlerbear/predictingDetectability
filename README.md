@@ -36,3 +36,4 @@ Script for HPC to run brt models to estimate site-level relative abundance estim
 "HPC_Detection_boostraps.R"
 Script for HPC to run models to bootstrap the detection probability estimates
 
+Table S6 contains species detection probabilities and population size estimates and is found within the 'outputs' folder. Note that the aim of the project was not to produce the most accurate population size estimates so we warrant caution at using these for any conservation decisions.
